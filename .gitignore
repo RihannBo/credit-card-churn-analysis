@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Data Files (optional if large/private)
+data/raw/
+*.xlsx
+*.xls
+
+# Models
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# Power BI Temp Files
+*.tmp
+*.bak
+
+# Mac files
+.AppleDouble
+.LSOverride
